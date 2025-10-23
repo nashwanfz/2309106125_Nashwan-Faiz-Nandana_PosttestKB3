@@ -1,9 +1,3 @@
-
-
-Tentu, ini adalah versi dari laporan Anda yang sudah diformat dengan Markdown agar cocok untuk ditempatkan di file `README.md` di repository GitHub Anda. Format ini lebih ringkas, terstruktur, dan mudah dibaca oleh pengunjung GitHub.
-
----
-
 # ResepKu - Aplikasi Resep Digital
 
 Aplikasi ResepKu adalah aplikasi mobile berbasis Flutter yang dirancang sebagai buku resep digital. Aplikasi ini bertujuan untuk memudahkan pengguna dalam menyimpan, melihat, mencari, dan mengelola berbagai macam resep makanan dan minuman. Dengan antarmuka yang intuitif dan fitur yang lengkap, ResepKu menjadi solusi praktis untuk para pecinta kuliner yang ingin mengorganisir resep mereka secara digital.
